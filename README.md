@@ -92,6 +92,12 @@ pnpm test
 
 ---
 
+## 🙏 Acknowledgements
+
+Thanks to the [LINUX DO](https://linux.do/) community for its welcoming space for technical discussion and support for open-source sharing.
+
+---
+
 ## 📄 License
 
 Licensed under the [Apache-2.0 License](LICENSE).  

@@ -135,6 +135,12 @@ pnpm test
 
 ---
 
+## 🙏 致谢
+
+Thanks to the [LINUX DO](https://linux.do/) community for its welcoming space for technical discussion and support for open-source sharing.
+
+---
+
 ## 📄 开源许可证
 
 本项目基于 [Apache-2.0 License](LICENSE) 开源发布。  
