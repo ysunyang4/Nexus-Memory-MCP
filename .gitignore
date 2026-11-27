@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.nexus/
+*.db
+*.db-wal
+*.db-shm
+.env
+.env.*
+.DS_Store
+*.log
