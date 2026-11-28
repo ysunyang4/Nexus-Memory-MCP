@@ -81,7 +81,7 @@ In your MCP settings:
 
 ---
 
-## 🧪 Verification
+## Verification
 
 Includes a comprehensive test suite covering secret redaction, write receipts, session bootstrap, scoped memory CRUD, score ranking, and cross-session handoffs:
 
@@ -92,7 +92,7 @@ pnpm test
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 Thanks to the [LINUX DO](https://linux.do/) community for its welcoming space for technical discussion and support for open-source sharing.
 
